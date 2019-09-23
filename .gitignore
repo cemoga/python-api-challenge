@@ -121,3 +121,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+api_keys.py
+.gitignore
+.DS_Store
+.gitattributes
